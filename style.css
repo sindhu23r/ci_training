@@ -1,0 +1,31 @@
+#judul{
+    color:red;
+}
+.judul{
+    color:green;
+    font-size: 18px;
+    font-weight: bold;
+}      
+.judul{
+    color:yellow !important;
+}
+#kotak p{
+    color: magenta;
+}
+p.kotak{
+    color:blueviolet;
+}
+.biru.kecil{
+    background: red;
+    width:100px;
+    height: 100px;
+    
+}
+h1, h2, h3{
+    color:green;
+}
+.kotak.merah{
+    width: 100px;
+    height: 100px;
+    background: blue;
+}
